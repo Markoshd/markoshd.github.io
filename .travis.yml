@@ -1,7 +1,6 @@
-sudo: false
-language: node_js
-node_js:
-  - 'node'
-  - '6'
-  - '5'
-  - '4'
+"sudo": false,
+"language": "node_js",
+"node_js": "node",
+"group": "stable",
+"dist": "trusty",
+"os": "linux"
